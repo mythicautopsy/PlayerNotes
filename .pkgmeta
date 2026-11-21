@@ -1,9 +1,5 @@
 package-as: PlayerNotes
 
-manual-changelog:
-  filename: CHANGELOG.md
-  markup-type: markdown
-
 ignore:
   - .github
   - PlayerNotes-logo-400.png
