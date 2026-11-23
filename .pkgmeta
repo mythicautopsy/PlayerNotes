@@ -3,3 +3,4 @@ package-as: PlayerNotes
 ignore:
   - .github
   - PlayerNotes-logo-400.png
+  - CLAUDE.md
